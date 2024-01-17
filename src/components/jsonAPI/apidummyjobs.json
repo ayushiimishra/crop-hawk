@@ -1,0 +1,32 @@
+{
+    "status": 200,
+    "message": "Jobs fetched sucessfully.",
+    "jobs": [
+      {
+        "id": 9,
+        "name": "Fertlize Area",
+        "created_at": "2023-01-27T06:34:18.073685+00:00",
+        "feature": {
+          " Spray Fertilizer": true
+        }
+      },
+      {
+        "id": 11,
+        "name": "Pesticed",
+        "created_at": "2023-01-27T06:35:02.432584+00:00",
+        "feature": {
+          "Lambda-Cyhalothrin": true,
+          "Chlormequat Trinexapac": true
+        }
+      },
+      {
+        "id": 12,
+        "name": "Reconnaissance",
+        "created_at": "2023-01-27T07:17:11.856095+00:00",
+        "feature": {
+          "Reconnaissance-NDVI": false,
+          "Reconnaissance-photosyntasis": false
+        }
+      }
+    ]
+  }
