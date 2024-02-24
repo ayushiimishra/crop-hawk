@@ -3,7 +3,13 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-website link: https://crop-hawk.web.app/
+website link: https://fir-frontend-8e0fd.web.app/
+
+
+Our Team  Crop-hawk's🦅🌎 vision is that anyone  hoping to create farm drones can use our open source software to launch precision drone missions from day one to tackle 
+irrigation, disease diagnosis, uneven growth, weed control, and fertilizer distribution with pinpoint accuracy.
+We are using AI to infuse google earth engine's historical data and camera sensors of any usual drone to achieve precision farming.
+
 
 ## Available Scripts
 
